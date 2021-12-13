@@ -1,17 +1,28 @@
-### Hi there 👋
-# [![Abhinav](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/abhinavk454)
-####  *This is Abhinav*
-<!--
-**abhinavk454/abhinavk454** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align='center'>< Hello world! /> 🤘🏻</h1>
 
-Here are some ideas to get you started:
+> My name is **Abhinav** and I'm <s>Batman!</s> 😉 **software developer**!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+
+<br />
+
+## 📈 Stats:
+
+<div align='center'>
+    <img src='https://github-readme-stats.vercel.app/api?username=abhinavk454&show_icons=true&count_private=true&hide_border=true' alt='Github stats' align='center' />
+</div>
+<br />
+
+<div align='center'>
+    <img src='https://github-readme-streak-stats.herokuapp.com/?user=abhinavk454' alt='Github stats' align='center' />
+</div>
+<br />
+
+<div align='center'>
+    <img src='https://github-readme-stats.vercel.app/api/wakatime?username=abhinavk454&layout=compact' alt='Languages over last 7 days ' align='center' />
+</div>
+<br />
+
+## 🔎 How to reach me:
+
+<p>Email me: <a href='mailto:abhinav.vikash2@gmail.com'>abhinav.vikash2@gmail.com</a> or welcome to <a href='https://neikan.pro' alt='https://abhinavk454.github.io' target='_blank'>my private page</a>!</p>
