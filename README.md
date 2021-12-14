@@ -25,4 +25,4 @@
 
 ## 🔎 How to reach me:
 
-<p>Email me: <a href='mailto:abhinav.vikash2@gmail.com'>abhinav.vikash2@gmail.com</a> or welcome to <a href='https://neikan.pro' alt='https://abhinavk454.github.io' target='_blank'>my private page</a>!</p>
+<p>Email me: <a href='mailto:abhinav.vikash2@gmail.com'>abhinav.vikash2@gmail.com</a> or welcome to <a href='https://abhinavk454.github.io' alt='https://abhinavk454.github.io' target='_blank'>my private page</a>!</p>
