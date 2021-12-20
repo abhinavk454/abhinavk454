@@ -4,8 +4,6 @@
 
 <br />
 
-<br />
-
 ## 📈 Stats:
 
 <div align='center'>
