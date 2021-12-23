@@ -6,6 +6,8 @@
 
 ## 📈 Stats:
 
+[![wakatime](https://wakatime.com/badge/user/2b793b34-9ebe-4ce3-9110-78147538511e.svg)](https://wakatime.com/@2b793b34-9ebe-4ce3-9110-78147538511e)
+
 <div align='center'>
     <img src='https://github-readme-stats.vercel.app/api?username=abhinavk454&show_icons=true&count_private=true&hide_border=true' alt='Github stats' align='center' />
 </div>
