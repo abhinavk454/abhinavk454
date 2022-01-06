@@ -35,13 +35,12 @@
 <div align='center'>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavk454&layout=compact" />
  </div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/ap?type=waving&color=gradient&height=110&section=footer&animation=twinkling"/>
+</p>
 
 ![Metrics](https://github.com/abhinavk454/abhinavk454/blob/master/github-metrics.svg)
 
 ## 🔎 How to reach me:
 
 <p>Email me: <a href='mailto:abhinav.vikash2@gmail.com'>abhinav.vikash2@gmail.com</a> or welcome to <a href='https://abhinavk454.github.io' alt='https://abhinavk454.github.io' target='_blank'>my private page</a>!</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/ap?type=waving&color=gradient&height=110&section=footer&animation=twinkling"/>
-</p>
