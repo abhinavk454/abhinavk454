@@ -25,6 +25,15 @@
 </div>
 <br />
 
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=abhinavk454&show_icons=true&theme=dracula" /> -->
+
+<div align='center'>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavk454&layout=compact" />
+ </div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer&animation=twinkling"/>
+</p>
+
 ## 🔎 How to reach me:
 
 <p>Email me: <a href='mailto:abhinav.vikash2@gmail.com'>abhinav.vikash2@gmail.com</a> or welcome to <a href='https://abhinavk454.github.io' alt='https://abhinavk454.github.io' target='_blank'>my private page</a>!</p>
