@@ -39,6 +39,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer&animation=twinkling"/>
 </p>
 
+![Metrics](https://github.com/abhinavk454/abhinavk454/blob/master/github-metrics.svg)
+
 ## 🔎 How to reach me:
 
 <p>Email me: <a href='mailto:abhinav.vikash2@gmail.com'>abhinav.vikash2@gmail.com</a> or welcome to <a href='https://abhinavk454.github.io' alt='https://abhinavk454.github.io' target='_blank'>my private page</a>!</p>
