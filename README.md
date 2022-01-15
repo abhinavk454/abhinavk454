@@ -1,6 +1,6 @@
 <h1 align='center'>< Hello world! /> 🤘🏻</h1>
 
-> My name is **Abhinav** and I'm <s>Batman!</s> 😉 **software developer**!
+> My name is **Abhinav** and I'm <s>Batman!</s> 😉😎 **software developer**!
 
 <br />
 
