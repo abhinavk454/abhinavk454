@@ -13,6 +13,7 @@
 
 
 [![wakatime](https://wakatime.com/badge/user/2b793b34-9ebe-4ce3-9110-78147538511e.svg)](https://wakatime.com/@2b793b34-9ebe-4ce3-9110-78147538511e)
+<br />
 ![](https://komarev.com/ghpvc/?username=abhinavk454&color=dc143c)
 
 <div align='center'>
