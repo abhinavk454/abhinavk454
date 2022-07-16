@@ -24,6 +24,11 @@
 <div align='center'>
     <img src='https://github-readme-streak-stats.herokuapp.com/?user=abhinavk454' alt='Github stats' align='center' />
 </div>
+<div align='center'>
+<img
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=abhinavk454&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
+/>
+</div>
 <br />
 
 <div align='center'>
