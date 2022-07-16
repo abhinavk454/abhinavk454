@@ -2,6 +2,11 @@
 
 > My name is **Abhinav** and I'm <s>Batman!</s> 😉😎 **software developer**!
 
+<div align='center'>
+<img
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=abhinavk454&badges=2&show-avatar=true&style=--header-bg-color:%23000;--border-radius:10px;--width:200px"
+/>
+</div>
 <br />
 
 
@@ -24,11 +29,7 @@
 <div align='center'>
     <img src='https://github-readme-streak-stats.herokuapp.com/?user=abhinavk454' alt='Github stats' align='center' />
 </div>
-<div align='center'>
-<img
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=abhinavk454&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
-/>
-</div>
+
 <br />
 
 <div align='center'>
@@ -41,7 +42,11 @@
 <div align='center'>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavk454&layout=compact" />
 </div>
-
+<br/>
+<div align='center'>
+<img align="center" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=abhinavk454" />
+    </div>
+    
 ![Metrics](https://github.com/abhinavk454/abhinavk454/blob/master/github-metrics.svg)
 
 ## 🔎 How to reach me:
