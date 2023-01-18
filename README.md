@@ -3,9 +3,9 @@
 > My name is **Abhinav** and I'm <s>Batman!</s> 😉😎 **software developer**!
 
 <div align='center'>
-<img
+<!-- <img
   src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=abhinavk454&badges=4&show-avatar=true&style=--header-bg-color:%23000;--border-radius:10px;--width:200px"
-/>
+/> -->
 </div>
 <br />
 
