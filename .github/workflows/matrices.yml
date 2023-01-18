@@ -43,12 +43,7 @@ jobs:
           plugin_achievements: yes
           plugin_achievements_display: compact
           plugin_achievements_threshold: B
-
-          # Notable contributions
-          plugin_notable: yes
-          plugin_notable_filter: stars:>100
-          plugin_notable_repositories: yes
-
+          
           # People plugin
           plugin_people: yes
           plugin_people_limit: 150
