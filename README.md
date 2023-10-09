@@ -44,7 +44,6 @@
 </div>
 <br/>
 <div align='center'>
-<img align="center" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=abhinavk454" />
     </div>
     
 <!-- ![Metrics](https://github.com/abhinavk454/abhinavk454/blob/master/github-metrics.svg) -->
