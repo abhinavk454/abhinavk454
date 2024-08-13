@@ -1,52 +1,41 @@
-<h1 align='center'>< Hello world! /> 🤘🏻</h1>
+# Abhinav Kumar. 👨‍💻
 
-> My name is **Abhinav** and I'm <s>Batman!</s> 😉😎 **software developer**!
+### 🚀 Quick Stats
 
-<div align='center'>
-<!-- <img
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=abhinavk454&badges=4&show-avatar=true&style=--header-bg-color:%23000;--border-radius:10px;--width:200px"
-/> -->
-</div>
-<br />
+[![Wakatime](https://wakatime.com/badge/user/2b793b34-9ebe-4ce3-9110-78147538511e.svg)](https://wakatime.com/@2b793b34-9ebe-4ce3-9110-78147538511e)
+![Profile Views](https://komarev.com/ghpvc/?username=abhinavk454&color=brightgreen)
 
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhinavk454&show_icons=true&count_private=true&hide_border=true&theme=dark)](https://github.com/abhinavk454)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abhinavk454&theme=dark)](https://github.com/abhinavk454)
 
-## 📈 Stats:
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavk454&layout=compact&theme=dark)](https://github.com/abhinavk454)
 
 
-[![wakatime](https://wakatime.com/badge/user/2b793b34-9ebe-4ce3-9110-78147538511e.svg)](https://wakatime.com/@2b793b34-9ebe-4ce3-9110-78147538511e)
-<br />
-![](https://komarev.com/ghpvc/?username=abhinavk454&color=dc143c)
+### 💻 Technologies & Tools
 
-<div align='center'>
-    <img src='https://github-readme-stats.vercel.app/api?username=abhinavk454&show_icons=true&count_private=true&hide_border=true' alt='Github stats' align='center' />
-</div>
-<br />
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=.net&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-<div align='center'>
-    <img src='https://github-readme-streak-stats.herokuapp.com/?user=abhinavk454' alt='Github stats' align='center' />
-</div>
 
-<br />
+### 📊 This Week I Spent My Time On
 
-<div align='center'>
-    <img src='https://github-readme-stats.vercel.app/api/wakatime?username=abhinavk454&layout=compact' alt='Languages over last 7 days ' align='center' />
-</div>
-<br />
+[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=abhinavk454&layout=compact&theme=dark)](https://github.com/abhinavk454)
 
-<!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=abhinavk454&show_icons=true&theme=dracula" /> -->
 
-<div align='center'>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavk454&layout=compact" />
-</div>
-<br/>
-<div align='center'>
-    </div>
-    
-<!-- ![Metrics](https://github.com/abhinavk454/abhinavk454/blob/master/github-metrics.svg) -->
+### 📫 How to Reach Me
 
-## 🔎 How to reach me:
+- Email: [abhinav.vikash2@gmail.com](mailto:abhinav.vikash2@gmail.com)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/maihuabhinav/
 
-<p>Email me: <a href='mailto:abhinav.vikash2@gmail.com'>abhinav.vikash2@gmail.com</a> <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer&animation=twinkling"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
