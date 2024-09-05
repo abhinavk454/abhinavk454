@@ -2,7 +2,7 @@
 <div style="border: 2px solid #0077B5; padding: 20px; border-radius: 10px;">
 
 <h1 align="center">Abhinav Kumar</h1>
-<h3 align="center">Full-Stack Developer | .NET | Python | React</h3>
+<h3 align="center">Full-Stack Developer | NodeJS | .NET | Python | React | Flutter</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/maihuabhinav/"><img src="https://img.shields.io/badge/-Abhinav%20Kumar-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
