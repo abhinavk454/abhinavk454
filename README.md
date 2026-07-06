@@ -1,189 +1,226 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:0a0a1a,60:0d1b2a,100:000000&height=280&section=header&text=ABHINAV%20KUMAR&fontSize=72&fontColor=00d4ff&fontAlignY=45&stroke=00d4ff&strokeWidth=1&desc=Senior%20Software%20Engineer%20%7C%20AI%20Architect%20%7C%20Co-Founder&descSize=17&descAlignY=65&descColor=7dd3fc&animation=twinkling"/>
-
-</div>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=Building+AI+that+thinks+%F0%9F%A7%A0;Shipping+apps+with+100K%2B+downloads+%F0%9F%9A%80;RAG+%7C+LLMs+%7C+Vector+Embeddings+%F0%9F%94%AE;5+years+%C2%B7+3+companies+%C2%B7+1+mission+%F0%9F%8E%AF;Open+to+collabs+%E2%80%94+let%27s+build+%F0%9F%A4%9D)](https://git.io/typing-svg)
-
-</div>
-
-<br/>
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maihuabhinav/)
-[![Gmail](https://img.shields.io/badge/Gmail-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhinav@apexcreators.co.in)
-[![Portfolio](https://img.shields.io/badge/Portfolio-ff6b35?style=for-the-badge&logo=firefox&logoColor=white)](https://abhinavk454.github.io/)
-[![ExamShala](https://img.shields.io/badge/ExamShala.in-7c3aed?style=for-the-badge&logo=bookstack&logoColor=white)](https://examshala.in)
-[![DEV.to](https://img.shields.io/badge/DEV.to-000000?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/abhinavk454)
-[![WakaTime](https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=wakatime&logoColor=white)](https://wakatime.com/@abhinavk454)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=abhinavk454&color=00d4ff&style=for-the-badge&label=PROFILE+VIEWS)
-[![wakatime](https://wakatime.com/badge/user/2b793b34-9ebe-4ce3-9110-78147538511e.svg?style=for-the-badge)](https://wakatime.com/@abhinavk454)
-
-</div>
-
----
-
-## `$ whoami`
-
-```ts
-const abhinav: Engineer = {
-  name        : "Abhinav Kumar",
-  title       : "Senior Software Engineer · AI Architect · Co-Founder",
-  location    : "India 🇮🇳",
-  experience  : "5 years",
-  company     : "Apex Creators (Co-Founder)",
-  education   : "B.Tech IT · IIEST Shibpur",
-
-  superPowers : ["LLM Integration", "RAG Architectures", "Scalable APIs", "Mobile Apps"],
-  currentFocus: "examshala.in — AI-driven adaptive e-learning",
-
-  achievements: {
-    playStoreDownloads : "100,000+ organic 📱",
-    devToFollowers     : "500+ followers ✍️",
-    certifications     : ["Azure AZ-400 DevOps Expert", "Meta Back-End Developer"],
-    codeReduction      : "30% at TCS · 60% faster pipelines",
-  },
-
-  funFact     : "I ship AI products with Cursor faster than most teams plan sprints ⚡",
-};
+```
+   _   ____  _   _ ___ _   _    ___     __     _  ___   _ __  __    _    ____  
+  / \ | __ )| | | |_ _| \ | |  / \ \   / /    | |/ / | | |  \/  |  / \  |  _ \ 
+ / _ \|  _ \| |_| || ||  \| | / _ \ \ / /_____| ' /| | | | |\/| | / _ \ | |_) |
+/ ___ \ |_) |  _  || || |\  |/ ___ \ V /|_____| . \| |_| | |  | |/ ___ \|  _ < 
+/_/   \_\____/|_| |_|___|_| \_/_/   \_\_/     |_|\_\\___/|_|  |_/_/   \_\_| \_\
 ```
 
----
+```
+[boot] loading identity ................. OK
+[boot] mounting skillset ................ OK
+[boot] indexing shipped apps ............ OK
+[boot] compiling career log ............. OK
+[boot] status: OPEN_TO_WORK ............. TRUE
+```
 
-## `$ cat /proc/stack`
+</div>
 
 <div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&multiline=false&repeat=true&width=760&lines=%3E+Senior+Software+Engineer+%2F%2F+AI+Architect;%3E+Co-Founder+%40+Apex+Creators;%3E+6+apps+shipped+to+Google+Play;%3E+RAG+%7C+LLMs+%7C+Vector+embeddings;%3E+5+years+%C2%B7+3+companies+%C2%B7+1+mission;%3E+open+to+collabs+--+ping+me)](https://git.io/typing-svg)
+
+</div>
+
+<div align="center">
+
+```
+┌──────────────────────────────────────────────────────────────┐
+│  CONNECT                                                       │
+└──────────────────────────────────────────────────────────────┘
+```
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=flat-square&logo=linkedin&logoColor=39FF14)](https://www.linkedin.com/in/maihuabhinav/)
+[![Gmail](https://img.shields.io/badge/MAIL-000000?style=flat-square&logo=gmail&logoColor=39FF14)](mailto:abhinav@apexcreators.co.in)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=flat-square&logo=firefox&logoColor=39FF14)](https://abhinavk454.github.io/)
+[![ExamShala](https://img.shields.io/badge/EXAMSHALA.IN-000000?style=flat-square&logo=bookstack&logoColor=39FF14)](https://examshala.in)
+[![Apex Creators](https://img.shields.io/badge/APEXCREATORS.CO.IN-000000?style=flat-square&logo=googleplay&logoColor=39FF14)](https://www.apexcreators.co.in/)
+[![DEV.to](https://img.shields.io/badge/DEV.TO-000000?style=flat-square&logo=devdotto&logoColor=39FF14)](https://dev.to/abhinavk454)
+[![WakaTime](https://img.shields.io/badge/WAKATIME-000000?style=flat-square&logo=wakatime&logoColor=39FF14)](https://wakatime.com/@abhinavk454)
+
+![Profile Views](https://komarev.com/ghpvc/?username=abhinavk454&color=39FF14&style=flat-square&label=VISITORS)
+[![wakatime](https://wakatime.com/badge/user/2b793b34-9ebe-4ce3-9110-78147538511e.svg?style=flat-square)](https://wakatime.com/@abhinavk454)
+
+</div>
+
+<br/>
+
+```
+┌──────────────────────────────────────────────────────────────┐
+│  $ cat identity.json                                            │
+└──────────────────────────────────────────────────────────────┘
+```
+
+```json
+{
+  "name"          : "Abhinav Kumar",
+  "role"          : "Senior Software Engineer / AI Architect / Co-Founder",
+  "location"      : "India",
+  "experience"    : "7 years",
+  "company"       : "Apex Creators (Co-Founder)",
+  "education"     : "B.Tech IT :: IIEST Shibpur",
+
+  "super_powers"  : ["LLM Integration", "RAG Architectures", "Scalable APIs", "Mobile Apps"],
+  "current_focus" : "examshala.in -- AI-driven adaptive e-learning",
+
+  "shipped"       : {
+    "google_play_apps"  : 7,
+    "flagship_app"      : "LocalAI -- Offline AI Chat LLM (20K+ MAU)",
+    "devto_followers"   : "1000+",
+    "certifications"    : ["Azure AZ-400 DevOps Expert", "Meta Back-End Developer"],
+    "impact"            : "30% code reduction @ TCS :: 60% faster pipelines"
+  },
+
+  "fun_fact"      : "ships AI products with Cursor faster than most teams plan sprints"
+}
+```
+
+```
+┌──────────────────────────────────────────────────────────────┐
+│  $ cat /proc/stack                                              │
+└──────────────────────────────────────────────────────────────┘
+```
 
 <table>
 <tr>
 <td valign="top" width="50%">
 
-### 🧠 AI / ML
-![LLMs](https://img.shields.io/badge/LLMs-Expert-00d4ff?style=flat-square&logo=openai&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG_Pipelines-Expert-00d4ff?style=flat-square&logo=databricks&logoColor=white)
-![Vector DB](https://img.shields.io/badge/Vector_Databases-Advanced-7dd3fc?style=flat-square&logo=pinecone&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor_AI-Daily_Driver-7dd3fc?style=flat-square&logo=cursor&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-Daily_Driver-7dd3fc?style=flat-square&logo=github&logoColor=white)
+```
+[ AI / ML ]
+------------------------------
+LLMs             ██████████ expert
+RAG pipelines    ██████████ expert
+vector DBs       ████████░░ advanced
+Cursor AI        ██████████ daily driver
+GitHub Copilot   ██████████ daily driver
 
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-Expert-00d4ff?style=flat-square&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-Advanced-7dd3fc?style=flat-square&logo=python&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-Expert-00d4ff?style=flat-square&logo=express&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-Advanced-7dd3fc?style=flat-square&logo=prisma&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-Proficient-bae6fd?style=flat-square&logo=rabbitmq&logoColor=white)
+[ BACKEND ]
+------------------------------
+Node.js          ██████████ expert
+Python           ████████░░ advanced
+Express.js       ██████████ expert
+Prisma           ████████░░ advanced
+RabbitMQ         ██████░░░░ proficient
+```
 
 </td>
 <td valign="top" width="50%">
 
-### 🎨 Frontend / Mobile
-![React](https://img.shields.io/badge/React-Expert-00d4ff?style=flat-square&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-Expert-00d4ff?style=flat-square&logo=nextdotjs&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-Advanced-7dd3fc?style=flat-square&logo=react&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-Expert-00d4ff?style=flat-square&logo=tailwindcss&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux_Toolkit-Advanced-7dd3fc?style=flat-square&logo=redux&logoColor=white)
+```
+[ FRONTEND / MOBILE ]
+------------------------------
+React            ██████████ expert
+Next.js          ██████████ expert
+React Native     ████████░░ advanced
+Tailwind CSS     ██████████ expert
+Redux Toolkit    ████████░░ advanced
 
-### ☁️ Cloud / DevOps
-![AWS](https://img.shields.io/badge/AWS-Advanced-7dd3fc?style=flat-square&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure_AZ--400-Certified-00d4ff?style=flat-square&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-Advanced-7dd3fc?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Proficient-bae6fd?style=flat-square&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-Proficient-bae6fd?style=flat-square&logo=terraform&logoColor=white)
+[ CLOUD / DEVOPS ]
+------------------------------
+AWS              ████████░░ advanced
+Azure (AZ-400)   ██████████ certified
+Docker           ████████░░ advanced
+Kubernetes       ██████░░░░ proficient
+Terraform        ██████░░░░ proficient
+```
 
 </td>
 </tr>
 </table>
 
-</div>
-
----
-
-## `$ ls ./projects --flagship`
-
-<div align="center">
-
-| ✦ | Project | What it does | Impact |
-|:---:|:---|:---|:---:|
-| 🎓 | **[ExamShala.in](https://examshala.in)** | AI-driven adaptive e-learning portal · mock tests · Pro tier · Next.js | 🚀 Live & Growing |
-| 🤖 | **[LocalAI — Offline Chat](https://play.google.com/store)** | Full AI chat with zero internet dependency · React Native | 📱 100K+ Downloads |
-| 🌦️ | **[Nothing Weather](https://play.google.com/store)** | Minimalist weather app inspired by Nothing OS | 📱 Play Store |
-| ⏱️ | **[Nothing Pomodoro](https://play.google.com/store)** | Focus timer with clean, distraction-free UI | 📱 Play Store |
-| 🧠 | **[Cognita — TrueFoundry](https://github.com/truefoundry/cognita)** | Open-source RAG framework · active OSS contributor | ⭐ OSS |
-| ✍️ | **[DEV.to Blog](https://dev.to)** | Advanced Node.js architecture · AI toolchain deep-dives | 👥 500+ Followers |
-
-</div>
-
----
-
-## `$ htop` — Activity
-
-<div align="center">
-
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=abhinavk454&layout=compact&theme=github_dark&hide_border=true&custom_title=Weekly%20Coding%20Breakdown&bg_color=0d1117&title_color=00d4ff&text_color=7dd3fc&icon_color=00d4ff)](https://wakatime.com/@abhinavk454)
-
-</div>
-
----
-
-## `$ git log --stat`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=abhinavk454&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00d4ff&text_color=7dd3fc&icon_color=00d4ff&ring_color=00d4ff" height="170"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavk454&layout=compact&theme=github_dark&hide_border=true&langs_count=8&bg_color=0d1117&title_color=00d4ff&text_color=7dd3fc" height="170"/>
-
-<br/><br/>
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=abhinavk454&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00d4ff&fire=ff6b35&currStreakLabel=00d4ff&sideLabels=7dd3fc&dates=7dd3fc)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## `$ cat ./career.log`
-
 ```
-▸ 2023–Now   AI Software Engineer & Co-Founder  @  Apex Creators     [Remote]
-             └─ Built ExamShala.in from 0→1 · 100K+ app downloads · RAG pipelines
-
-▸ 2022–2023  Software Developer (Backend)        @  ATPL              [Kolkata]
-             └─ Scaled timetable system to 100K users · 50% load time reduction
-
-▸ 2021–2022  Software Engineer (ASE)             @  Tata Consultancy  [Pune]
-             └─ E&Y payroll API · 95% test coverage · 60% faster processing
+┌──────────────────────────────────────────────────────────────┐
+│  $ ./apex-creators --list-apps --source=play.google.com          │
+└──────────────────────────────────────────────────────────────┘
 ```
 
----
+<div align="center">
 
-## `$ ping abhinav --collaborate`
+| App | Rating | What it does |
+|---|:---:|---|
+| **[LocalAI -- Offline AI Chat LLM](https://play.google.com/store/apps/details?id=com.ApexCreator.localaiapp)** | ★ 4.2  | Runs open-source LLMs fully offline for private chat, image, and document analysis, no cloud dependency |
+| **[Nothing Speedometer](https://play.google.com/store/apps/details?id=com.ApexCreators.nothingspeedometer)** | ★ 4.6 | GPS speedometer wrapped in the Nothing OS dot-matrix aesthetic |
+| **[Nothing Notes: AI Text Editor](https://play.google.com/store/apps/details?id=com.ApexCreator.nothingnotes)** | ★ 4.3 | AI-assisted note-taking and text editing, styled after Nothing OS |
+| **[Nothing Weather: Cold or Warm](https://play.google.com/store/apps/details?id=com.ApexCreator.nothing_weather)** | ★ 4.3 | Minimalist weather app with a Nothing OS-inspired interface |
+| **[Aesthetic Desk Clock & Timer](https://play.google.com/store/apps/details?id=com.ApexCreator.deskclock)** | ★ 4.2 | Ambient desk clock, timer, and stopwatch built for always-on displays |
+| **[Nothing Daily Planner](https://play.google.com/store/apps/details?id=com.ApexCreator.dailyplanner)** | ★ 4.6 | Minimalist day planner and task tracker |
+
+*ratings as published on [Google Play / Apex Creators](https://play.google.com/store/apps/dev?id=8845231963384448407)*
+
+</div>
+
+**Beyond the Play Store:**
+- **[ExamShala.in](https://examshala.in)** -- AI-driven adaptive e-learning platform, mock tests, Pro tier, built on Next.js
+- **[Cognita](https://github.com/truefoundry/cognita)** -- open-source RAG framework, active OSS contributor
+- **[DEV.to](https://dev.to/abhinavk454)** -- technical writing on AI toolchains and backend architecture
+
+```
+┌──────────────────────────────────────────────────────────────┐
+│  $ htop -- activity                                              │
+└──────────────────────────────────────────────────────────────┘
+```
+
+<div align="center">
+
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=abhinavk454&layout=compact&theme=dark&hide_border=true&custom_title=weekly_coding_breakdown&bg_color=000000&title_color=39FF14&text_color=39FF14&icon_color=39FF14)](https://wakatime.com/@abhinavk454)
+
+</div>
+
+```
+┌──────────────────────────────────────────────────────────────┐
+│  $ git log --stat                                                │
+└──────────────────────────────────────────────────────────────┘
+```
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=abhinavk454&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=000000&title_color=39FF14&text_color=39FF14&icon_color=39FF14&ring_color=39FF14" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavk454&layout=compact&theme=dark&hide_border=true&langs_count=8&bg_color=000000&title_color=39FF14&text_color=39FF14" height="170"/>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=abhinavk454&theme=dark&hide_border=true&background=000000&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=39FF14&dates=39FF14)](https://git.io/streak-stats)
+
+</div>
+
+```
+┌──────────────────────────────────────────────────────────────┐
+│  $ cat ./career.log                                              │
+└──────────────────────────────────────────────────────────────┘
+```
+
+```
+[ 2023 -- now  ] AI Software Engineer & Co-Founder  @ Apex Creators     (remote)
+                 -> shipped 6 Android apps to Google Play under the Apex Creators brand
+                 -> built ExamShala.in from 0->1 with AI-driven adaptive learning + RAG pipelines
+
+[ 2022 -- 2023 ] Software Developer (Backend)       @ ATPL              (Kolkata)
+                 -> scaled timetable system to 100K users, 50% load-time reduction
+
+[ 2021 -- 2022 ] Software Engineer (ASE)            @ Tata Consultancy  (Pune)
+                 -> E&Y payroll API, 95% test coverage, 60% faster processing
+```
+
+```
+┌──────────────────────────────────────────────────────────────┐
+│  $ ping abhinav --collaborate                                    │
+└──────────────────────────────────────────────────────────────┘
+```
 
 <div align="center">
 
 ```
-PING abhinav@apexcreators.co.in ... 
-64 bytes from abhinav: response_time=fast  status=OPEN_TO_WORK
-64 bytes from abhinav: freelance=YES       fulltime=YES
-64 bytes from abhinav: opensource=YES      collabs=YES
+PING abhinav@apexcreators.co.in ...
+64 bytes from abhinav: response_time=fast    status=OPEN_TO_WORK
+64 bytes from abhinav: freelance=YES         fulltime=NO
+64 bytes from abhinav: opensource=YES        collabs=YES
 
 --- ping statistics ---
-Always responds. Never ghosts. Ships on time. ✓
+always responds. never ghosts. ships on time.
 ```
 
-<br/>
+[![Email](https://img.shields.io/badge/ABHINAV@APEXCREATORS.CO.IN-000000?style=flat-square&logo=gmail&logoColor=39FF14)](mailto:abhinav@apexcreators.co.in)
 
-[![Email](https://img.shields.io/badge/abhinav@apexcreators.co.in-000000?style=for-the-badge&logo=gmail&logoColor=00d4ff)](mailto:abhinav@apexcreators.co.in)
-
-<br/>
-
-*⭐ If something here impressed you — a star on my repos means the world.*
+*if something here impressed you, a star on my repos means the world.*
 
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0d1b2a,100:000000&height=120&section=footer&fontColor=00d4ff"/>
