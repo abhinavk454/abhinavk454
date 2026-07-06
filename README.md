@@ -12,15 +12,15 @@
 [boot] loading identity ................. OK
 [boot] mounting skillset ................ OK
 [boot] indexing shipped apps ............ OK
-[boot] compiling career log ............. OK
-[boot] status: OPEN_TO_WORK ............. TRUE
+[boot] compiling career log .............. OK
+[boot] status: OPEN_TO_WORK .............. TRUE
 ```
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&multiline=false&repeat=true&width=760&lines=%3E+Senior+Software+Engineer+%2F%2F+AI+Architect;%3E+Co-Founder+%40+Apex+Creators;%3E+6+apps+shipped+to+Google+Play;%3E+RAG+%7C+LLMs+%7C+Vector+embeddings;%3E+5+years+%C2%B7+3+companies+%C2%B7+1+mission;%3E+open+to+collabs+--+ping+me)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&multiline=false&repeat=true&width=760&lines=%3E+Senior+Software+Engineer+%2F%2F+AI+Architect;%3E+Co-Founder+%40+Apex+Creators;%3E+6+apps+shipped+to+Google+Play;%3E+RAG+%7C+LLMs+%7C+Vector+embeddings;%3E+7+years+%C2%B7+3+companies+%C2%B7+1+mission;%3E+open+to+collabs+--+ping+me)](https://git.io/typing-svg)
 
 </div>
 
@@ -66,7 +66,7 @@
   "current_focus" : "examshala.in -- AI-driven adaptive e-learning",
 
   "shipped"       : {
-    "google_play_apps"  : 7,
+    "google_play_apps"  : 6,
     "flagship_app"      : "LocalAI -- Offline AI Chat LLM (20K+ MAU)",
     "devto_followers"   : "1000+",
     "certifications"    : ["Azure AZ-400 DevOps Expert", "Meta Back-End Developer"],
@@ -141,11 +141,11 @@ Terraform        ██████░░░░ proficient
 | App | Rating | What it does |
 |---|:---:|---|
 | **[LocalAI -- Offline AI Chat LLM](https://play.google.com/store/apps/details?id=com.ApexCreator.localaiapp)** | ★ 4.2  | Runs open-source LLMs fully offline for private chat, image, and document analysis, no cloud dependency |
-| **[Nothing Speedometer](https://play.google.com/store/apps/details?id=com.ApexCreators.nothingspeedometer)** | ★ 4.6 | GPS speedometer wrapped in the Nothing OS dot-matrix aesthetic |
-| **[Nothing Notes: AI Text Editor](https://play.google.com/store/apps/details?id=com.ApexCreator.nothingnotes)** | ★ 4.3 | AI-assisted note-taking and text editing, styled after Nothing OS |
-| **[Nothing Weather: Cold or Warm](https://play.google.com/store/apps/details?id=com.ApexCreator.nothing_weather)** | ★ 4.3 | Minimalist weather app with a Nothing OS-inspired interface |
+| **[Speedometer](https://play.google.com/store/apps/details?id=com.ApexCreators.nothingspeedometer)** | ★ 4.6 | GPS speedometer with a minimalist dot-matrix style interface |
+| **[Notes: AI Text Editor](https://play.google.com/store/apps/details?id=com.ApexCreator.nothingnotes)** | ★ 4.3 | AI-assisted note-taking and text editing with a minimalist interface |
+| **[Weather: Cold or Warm](https://play.google.com/store/apps/details?id=com.ApexCreator.nothing_weather)** | ★ 4.3 | Minimalist weather app |
 | **[Aesthetic Desk Clock & Timer](https://play.google.com/store/apps/details?id=com.ApexCreator.deskclock)** | ★ 4.2 | Ambient desk clock, timer, and stopwatch built for always-on displays |
-| **[Nothing Daily Planner](https://play.google.com/store/apps/details?id=com.ApexCreator.dailyplanner)** | ★ 4.6 | Minimalist day planner and task tracker |
+| **[Daily Planner](https://play.google.com/store/apps/details?id=com.ApexCreator.dailyplanner)** | ★ 4.6 | Minimalist day planner and task tracker |
 
 *ratings as published on [Google Play / Apex Creators](https://play.google.com/store/apps/dev?id=8845231963384448407)*
 
@@ -191,7 +191,7 @@ Terraform        ██████░░░░ proficient
 
 ```
 [ 2023 -- now  ] AI Software Engineer & Co-Founder  @ Apex Creators     (remote)
-                 -> shipped 7 Android apps to Google Play under the Apex Creators brand
+                 -> shipped 6 Android apps to Google Play under the Apex Creators brand
                  -> built ExamShala.in from 0->1 with AI-driven adaptive learning + RAG pipelines
 
 [ 2022 -- 2023 ] Software Developer (Backend)       @ ATPL              (Kolkata)
