@@ -191,11 +191,11 @@ Terraform        ██████░░░░ proficient
 
 ```
 [ 2023 -- now  ] AI Software Engineer & Co-Founder  @ Apex Creators     (remote)
-                 -> shipped 6 Android apps to Google Play under the Apex Creators brand
+                 -> shipped 7 Android apps to Google Play under the Apex Creators brand
                  -> built ExamShala.in from 0->1 with AI-driven adaptive learning + RAG pipelines
 
 [ 2022 -- 2023 ] Software Developer (Backend)       @ ATPL              (Kolkata)
-                 -> scaled timetable system to 100K users, 50% load-time reduction
+                 -> improved educational system used by 100K users, 50% load-time reduction
 
 [ 2021 -- 2022 ] Software Engineer (ASE)            @ Tata Consultancy  (Pune)
                  -> E&Y payroll API, 95% test coverage, 60% faster processing
