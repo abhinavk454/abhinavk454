@@ -10,14 +10,14 @@
 │  role       :: Software Engineer / AI Architect              │
 │  company    :: Apex Creators                                 │
 │  mode       :: BUILD                                         │
-│  status     :: OPEN_TO_WORK                                  │
+│  status     :: OPEN_TO_COLLABORATE                           │
 ╰──────────────────────────────────────────────────────────────╯
-````
+```
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000?style=flat-square\&logo=linkedin\&logoColor=39FF14)](https://www.linkedin.com/in/maihuabhinav/)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000?style=flat-square\&logo=firefox\&logoColor=39FF14)](https://abhinavk454.github.io/)
-[![DEV.to](https://img.shields.io/badge/DEV.TO-000?style=flat-square\&logo=devdotto\&logoColor=39FF14)](https://dev.to/abhinavk454)
-[![Email](https://img.shields.io/badge/EMAIL-000?style=flat-square\&logo=gmail\&logoColor=39FF14)](mailto:abhinav@apexcreators.co.in)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000?style=flat-square&logo=linkedin&logoColor=39FF14)](https://www.linkedin.com/in/maihuabhinav/)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000?style=flat-square&logo=firefox&logoColor=39FF14)](https://abhinavk454.github.io/)
+[![DEV.to](https://img.shields.io/badge/DEV.TO-000?style=flat-square&logo=devdotto&logoColor=39FF14)](https://dev.to/abhinavk454)
+[![Email](https://img.shields.io/badge/EMAIL-000?style=flat-square&logo=gmail&logoColor=39FF14)](mailto:abhinav@apexcreators.co.in)
 
 </div>
 
@@ -110,13 +110,14 @@
   "shipped": {
     "android_apps": 6,
     "google_play": true,
+    "note": "ratings vary by region/time \u2014 see each store listing for current numbers",
     "notable": [
-      "LocalAI",
-      "Speedometer",
-      "Notes",
-      "Weather",
-      "Desk Clock",
-      "Daily Planner"
+      "LocalAI \u2013 Offline AI Chat LLM",
+      "Nothing Speedometer",
+      "Nothing Daily Planner",
+      "Nothing Notes: AI Text Editor",
+      "Aesthetic Desk Clock & Timer",
+      "Nothing Weather: Cold or Warm"
     ]
   },
 
