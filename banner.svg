@@ -1,0 +1,36 @@
+<svg width="1200" height="280" viewBox="0 0 1200 280" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#161b22"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#39FF14"/>
+      <stop offset="100%" stop-color="#0d1117" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="280" fill="url(#bg)"/>
+  <rect x="0" y="0" width="1200" height="4" fill="url(#accent)"/>
+  <rect x="0" y="276" width="1200" height="4" fill="url(#accent)"/>
+
+  <!-- corner brackets -->
+  <path d="M 40 40 L 40 70 M 40 40 L 70 40" stroke="#39FF14" stroke-width="2" fill="none" opacity="0.6"/>
+  <path d="M 1160 40 L 1160 70 M 1160 40 L 1130 40" stroke="#39FF14" stroke-width="2" fill="none" opacity="0.6"/>
+  <path d="M 40 240 L 40 210 M 40 240 L 70 240" stroke="#39FF14" stroke-width="2" fill="none" opacity="0.6"/>
+  <path d="M 1160 240 L 1160 210 M 1160 240 L 1130 240" stroke="#39FF14" stroke-width="2" fill="none" opacity="0.6"/>
+
+  <text x="600" y="118" font-family="'Courier New', monospace" font-size="56" font-weight="700" fill="#e6edf3" text-anchor="middle" letter-spacing="4">
+    ABHINAV.KUMAR
+  </text>
+
+  <text x="600" y="158" font-family="'Courier New', monospace" font-size="20" fill="#39FF14" text-anchor="middle" letter-spacing="2">
+    Software Engineer :: AI Architect
+  </text>
+
+  <line x1="450" y1="185" x2="750" y2="185" stroke="#30363d" stroke-width="1"/>
+
+  <text x="600" y="215" font-family="'Courier New', monospace" font-size="15" fill="#8b949e" text-anchor="middle" letter-spacing="1">
+    Apex Creators  //  On-Device AI  //  RAG Systems
+  </text>
+</svg>
