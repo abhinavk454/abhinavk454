@@ -1,6 +1,6 @@
 <div align="center">
 
-# `ABHINAV.KUMAR`
+<img src="banner.svg" alt="Abhinav Kumar" width="100%"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maihuabhinav/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=firefox&logoColor=white)](https://abhinavk454.github.io/)
@@ -18,14 +18,16 @@
   "experience": "7+ years",
   "status": "open to collaborate",
 
-  "stack": ["LLMs", "RAG", "Node.js", "Python", "React", "Next.js", "React Native", "AWS", "Docker"],
+  "stack": ["LLMs", "RAG", "ExecuTorch", "LiteRT", "ONNX", "Python", "AWS", "Docker"],
 
   "featured": [
-    "Examshala \u2014 AI adaptive learning platform \u2192 examshala.in",
-    "LocalAI \u2014 offline private AI app \u2192 Google Play",
+    "Examshala - AI adaptive learning platform -> examshala.in",
+    "LocalAI - offline private AI app -> Google Play",
     "6 apps shipped on Google Play"
   ],
 
   "philosophy": "Ship, measure, improve."
 }
 ```
+
+</div>
